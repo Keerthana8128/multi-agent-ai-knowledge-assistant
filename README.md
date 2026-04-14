@@ -68,3 +68,5 @@ User Input → Text Processing → Chunking → Embeddings → FAISS Vector Stor
 ```bash
 git clone https://github.com/Keerthana8128/multi-agent-ai-knowledge-assistant.git
 cd multi-agent-ai-knowledge-assistant
+```
+![App Screenshot](demo.png)
