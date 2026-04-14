@@ -1,0 +1,11 @@
+Our company is planning to launch an AI knowledge assistant for internal teams.
+The assistant should help employees quickly summarize documents, answer questions, and recommend next steps.
+
+The first release will focus on document ingestion, retrieval, summarization, and question answering.
+The system should be easy to use and should reduce time spent searching through internal documents.
+
+Important goals:
+- Improve employee productivity
+- Reduce manual searching time
+- Provide accurate summaries
+- Suggest clear next actions after answering questions
